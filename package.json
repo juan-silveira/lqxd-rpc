@@ -3,30 +3,10 @@
   "description": "LQX Client Library to connect to LQX Core (lqxd) via RPC",
   "version": "2.1.1",
   "author": {
-    "name": "Stephen Pair",
+    "name": "Juan Silveira",
     "email": "stephen@bitpay.com"
   },
   "contributors": [
-    {
-      "name": "Jeff Garzik",
-      "email": "jgarzik@bitpay.com"
-    },
-    {
-      "name": "Manuel Araoz",
-      "email": "manuelaraoz@gmail.com"
-    },
-    {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
-    },
-    {
-      "name": "Braydon Fuller",
-      "email": "braydon@bitpay.com"
-    },
-    {
-      "name": "Alex Werner",
-      "email": "alex.werner@lqx.org"
-    }
   ],
   "keywords": [
     "lqx",
