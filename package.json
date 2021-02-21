@@ -1,7 +1,7 @@
 {
   "name": "@juan-silveira/lqxd-rpc",
   "description": "LQX Client Library to connect to LQX Core (lqxd) via RPC",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
